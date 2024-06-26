@@ -27,6 +27,7 @@ This project contains a Fraud Detection application that includes a FastAPI serv
 <p>
 <a href="https://huggingface.co/spaces/sibikrish/Creditcard-Fraud-Detection?theme=dark"><img src="https://github.com/Sibikrish3000/Creditcard-Fraud-Detection/blob/main/static/images/hf-logo.svg?raw=true" alt="hfspace"></a>
 </p>
+
 ## Overview
 
 1. **FastAPI Backend**: Handles prediction requests using machine learning models.
