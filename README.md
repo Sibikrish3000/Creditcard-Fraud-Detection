@@ -1,9 +1,3 @@
----
-title: gradio_app.py
-app_file: gradio_app.py
-sdk: gradio
-sdk_version: 4.36.1
----
 <!-- markdownlint-disable -->
 <p align="center">
 <a href = "https://github.com/Sibikrish3000/Creditcard-Fraud-Detection" > <img src = "https://github.com/Sibikrish3000/Creditcard-Fraud-Detection/blob/main/static/images/creditcard1.jpg?raw=true" alt = "fraud detection image"  width=500 height=280> </a>
