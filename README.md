@@ -120,7 +120,10 @@ docker pull sibikrish/creditcard-fraud-detection:latest
 docker run sibikrish/creditcard-fraud-detection:latest #or 
 docker run -d -p 7860:7860 sibikrish/creditcard-fraud-detection:latest
  ``` 
-
+### Run with Huggingface Docker Space
+```
+docker run -it -p 7860:7860 --platform=linux/amd64 \ registry.hf.space/sibikrish-creditcard-fraud-detection:latest python gradio_app.py
+```
 ### Manually
 
 To run the application locally without Docker, ensure you have Python installed and follow these steps:
