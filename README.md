@@ -25,7 +25,7 @@ This project contains a Fraud Detection application that includes a FastAPI serv
 [![gradio](https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg)](https://sibikrish-creditcard-fraud-detection.hf.space/)
 ## Try on Huggingface Space
 <p>
-<a href="https://huggingface.co/spaces/sibikrish/Creditcard-Fraud-Detection?theme=dark"><img src="https://github.com/Sibikrish3000/Creditcard-Fraud-Detection/blob/main/static/images/hf-logo.svg?raw=true" alt="hfspace"></a>
+<a href="https://huggingface.co/spaces/sibikrish/Creditcard-Fraud-Detection?theme=dark"><img src="https://github.com/Sibikrish3000/Creditcard-Fraud-Detection/blob/main/static/images/hf-logo.svg?raw=true" alt="hfspace"  width="300" height="150"></a>
 </p>
 
 ## Overview
