@@ -1,0 +1,15 @@
+Credit Card Frequency,Job,Age,Gender,Category,Distance (km),Hour,Hours Difference Between Transactions,Amount,Choose Model,flag,username,timestamp
+0,,0,,,0,0,0,0,,,,2024-06-25 21:41:43.449715
+0,,0,,,0,0,0,0,,,,2024-06-25 21:41:44.328213
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:42:48.591947
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:42:49.917615
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:42:52.306206
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:42:53.084280
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:42:53.365504
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:42:53.880258
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:42:54.532432
+75,Secondary school teacher,54,Female,shopping_net,75,9,90,20,RandomForest,,,2024-06-25 21:43:01.396615
+77,Politician's assistant,40,Female,shopping_net,88,4,44,33,RandomForest,,,2024-06-25 22:01:15.956971
+77,Secondary school teacher,47,Female,misc_net,88,9,28,99,XGBoost,,,2024-06-25 22:08:35.317144
+77,Television camera operator,37,Female,travel,888,24,90,9999,XGBoost,,,2024-06-26 13:59:42.520861
+77,Television camera operator,37,Female,travel,888,24,90,9999,XGBoost,,,2024-06-26 13:59:44.857070

@@ -1,0 +1,11 @@
+pillow
+fastapi
+uvicorn
+gradio
+requests
+psutil
+numpy
+joblib
+xgboost
+category-encoders
+scikit-learn
