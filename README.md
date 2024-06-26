@@ -18,16 +18,15 @@ This application leverages machine learning to detect fraudulent credit card tra
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python&logoColor=white" alt="language"></a>
 <a href="https://fastapi.tiangolo.com/" ><img src="https://img.shields.io/badge/FastAPI-darkgreen.svg?style=flat&logo=fastapi&logoColor=white " alt="fastapi"></a> <a href="https://hub.docker.com/repository/docker/sibikrish3000/creditcard-fraud-detection/"><img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white" alt= "docker"></a>
 
-
-
-
-
-</p>
-
-
 This project contains a Fraud Detection application that includes a FastAPI server for the backend and a Gradio interface for the frontend. The application can predict if a transaction is fraudulent using either XGBoost or RandomForest models.
 
 [Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+## Try on Gradio
+[![gradio](https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg)](https://sibikrish-creditcard-fraud-detection.hf.space/)
+## Try on Huggingface Space
+<p>
+<a href="https://huggingface.co/spaces/sibikrish/Creditcard-Fraud-Detection?theme=dark"><img src="https://github.com/Sibikrish3000/Creditcard-Fraud-Detection/blob/main/static/images/hf-logo.svg?raw=true" alt="hfspace"></a></p>
+[![hf space](https://github.com/Sibikrish3000/Creditcard-Fraud-Detection/blob/main/static/images/hf-logo.svg?raw=true)](https://huggingface.co/spaces/sibikrish/Creditcard-Fraud-Detection?theme=dark)
 ## Overview
 
 1. **FastAPI Backend**: Handles prediction requests using machine learning models.
@@ -120,10 +119,7 @@ docker pull sibikrish/creditcard-fraud-detection:latest
 docker run sibikrish/creditcard-fraud-detection:latest #or 
 docker run -d -p 7860:7860 sibikrish/creditcard-fraud-detection:latest
  ``` 
-### Run with Huggingface Docker Space
-```
-docker run -it -p 7860:7860 --platform=linux/amd64 \ registry.hf.space/sibikrish-creditcard-fraud-detection:latest python gradio_app.py
-```
+
 ### Manually
 
 To run the application locally without Docker, ensure you have Python installed and follow these steps:
