@@ -1,4 +1,6 @@
 <!-- markdownlint-disable -->
+#### ⚠️ This repository is archived.
+#### Please visit the [PayShield-ML](https://github.com/Sibikrish3000/realtime-fraud-engine) repository to access the optimized model and latest updates.
 <p align="center">
 <a href = "https://github.com/Sibikrish3000/Creditcard-Fraud-Detection" > <img src = "https://github.com/Sibikrish3000/Creditcard-Fraud-Detection/blob/main/static/images/creditcard1.jpg?raw=true" alt = "fraud detection image"  width=500 height=280> </a>
 </p>
